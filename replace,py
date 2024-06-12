@@ -1,0 +1,4 @@
+a="I like coding on the go"
+b=a.replace("o","a",2)
+print(a)
+print(b)
